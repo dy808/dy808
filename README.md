@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dy808
 - 👀 I’m interested in Blockchain.
-- 🌱 I’m currently learning how to work with HyperLedger Fabric.
-- 💞️ I’m looking to collaborate on HyperLedger Fabric and other Blockchain projects.
+- 🌱 I’m currently learning how to develop SmartContract with Solidity and how to work with HyperLedger Fabric.
+- 💞️ I’m looking to collaborate on projects involving developing SmartContracs with Solidity, HyperLedger Fabric and other.
 - 📫 How to reach me la9039855@gmail.com
 
 <!---
